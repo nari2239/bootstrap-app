@@ -4,4 +4,7 @@ class TweetsController < ApplicationController
 
   def new
   end
+
+  def practice
+  end
 end
